@@ -1,0 +1,16 @@
+
+.imgslider{
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+  height: 50vh;
+  width: 50vw;
+
+  }
+.carousel-style{
+  width: 50vw;
+  height: 50vh;
+   /* add this code for position fixed */
+}
+
+  @import "react-responsive-carousel/lib/styles/carousel.min.css";
