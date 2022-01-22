@@ -1,0 +1,7 @@
+@import "react-responsive-carousel/lib/styles/carousel.min.css"; 
+
+
+#headerGallery .carousel-item > img { 
+  width: 100%; 
+
+}

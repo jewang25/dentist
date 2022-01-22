@@ -1,0 +1,35 @@
+
+
+.left{
+    display: block;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    width: 65%;
+    margin-left: 5%;
+    margin-top: 2%;
+   
+}
+
+.right{
+    display: block;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+    margin-right: 2%;
+    margin-top: 2%;
+    padding: 0px;
+}
+
+.leftTitle{
+    font-size: 1.2em;
+}
+.leftDescription{
+    font-size: 1em;
+}
+
+.rightTitle{
+    font-size: 1.1em;
+   margin-top: 0;
+
+}
